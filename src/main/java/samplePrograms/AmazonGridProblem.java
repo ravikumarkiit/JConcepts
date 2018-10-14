@@ -5,11 +5,11 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 
-public class Test2 {
+public class AmazonGridProblem {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Test2 tt = new Test2();
+		AmazonGridProblem tt = new AmazonGridProblem();
 		List<List<Integer>> lot = new ArrayList();
 		lot.add(Arrays.asList(1,0,0));
 		lot.add(Arrays.asList(1,0,0));

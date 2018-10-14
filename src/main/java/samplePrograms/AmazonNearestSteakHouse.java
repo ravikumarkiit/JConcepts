@@ -5,11 +5,11 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 
-public class Test1 {
+public class AmazonNearestSteakHouse {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Test1 tt = new Test1();
+		AmazonNearestSteakHouse tt = new AmazonNearestSteakHouse();
 		List<List<Integer>> allLocations = new ArrayList();
 		allLocations.add(Arrays.asList(1,2));
 		allLocations.add(Arrays.asList(3,4));
